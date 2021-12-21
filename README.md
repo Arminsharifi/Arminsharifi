@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arminsharifi
-- 👀 I’m interested in C# , MS Sql Server , MYSQL
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C# , MS Sql Server , MYSQL , MongoDb
+- 🌱 I’m a Software Engnieer At Golchin Smart Media
 - 📫 How to reach me https://Arminsharifi.ir
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArminSharifi&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
