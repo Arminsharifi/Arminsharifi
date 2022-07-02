@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arminsharifi&show_icons=true&locale=en&theme=dark&layout=compact" alt="arminsharifi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arminsharifi&theme=dark&show_icons=true&locale=en" alt="arminsharifi" /></p>
-
-<a href="https://coffeebede.ir/buycoffee/arminsharifi"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
