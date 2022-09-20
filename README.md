@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://Arminsharifi.ir](https://Arminsharifi.ir)
 
-- 📫 How to reach me **Arminsharifi4@gmail.com**
+- 📫 How to reach me **Arminsharifi@outlook.com**
 
 - 📄 Know about my experiences [https://Arminsharifi.ir](https://Arminsharifi.ir)
 
