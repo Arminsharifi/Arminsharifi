@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **Arminsharifi@outlook.com**
 
-- 📄 Know about my experiences [https://Arminsharifi.ir](https://Arminsharifi.ir)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mrarminsharifi/)
 
-- ☕ If you wanted to buy me a coffee [https://coffeebede.ir/arminsharifi](https://coffeebede.ir/arminsharifi)
+- ☕ If you wanted to buy me a coffee [CoffeeBede](https://coffeebede.ir/arminsharifi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
