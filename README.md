@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Armin :moyai:</h1>
 <h3 align="center">A Software Engineer From Tehran</h3>
 
-- 👨‍💻 All of my projects are available at [https://Arminsharifi.ir](https://Arminsharifi.ir)
+- 👨‍💻 You can see my site at : [https://Arminsharifi.ir](https://Arminsharifi.ir)
 
 - 📫 How to reach me : **Arminsharifi@outlook.com**
 
