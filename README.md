@@ -23,10 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arminsharifi&show_icons=true&locale=en&theme=dark&layout=compact" alt="arminsharifi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arminsharifi&theme=dark&show_icons=true&locale=en" alt="arminsharifi" /></p>
-
-
-<div align="center">
-<h2>Technologies: </h2>
-<img src="https://afsharsharifi.github.io/GithubReadmeGenerator/icons/MongoDB.svg" alt="MongoDB" width="40"> <img src="https://afsharsharifi.github.io/GithubReadmeGenerator/icons/MySQL.svg" alt="MySQL" width="40"> <img src="https://afsharsharifi.github.io/GithubReadmeGenerator/icons/PostgreSQL.svg" alt="PostgreSQL" width="40"> <img src="https://afsharsharifi.github.io/GithubReadmeGenerator/icons/Redis.svg" alt="Redis" width="40"> <img src="https://afsharsharifi.github.io/GithubReadmeGenerator/icons/SQL%20Server.svg" alt="SQL Server" width="40">
-</div>
-
