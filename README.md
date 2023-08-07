@@ -20,7 +20,3 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker)](https://skillicons.dev)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arminsharifi&show_icons=true&locale=en&theme=dark&layout=compact" alt="arminsharifi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arminsharifi&theme=dark&show_icons=true&locale=en" alt="arminsharifi" /></p>
