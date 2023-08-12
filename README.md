@@ -4,7 +4,6 @@ I'm a skilled Software engineer specializing in C# and the .NET ecosystem. With 
 </p>
 <h2 align="center">📱 Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/_arminsharifi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arminsharifi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrarminsharifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrarminsharifi" height="30" width="40" /></a>
 <a href="https://instagram.com/_arminsharifi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arminsharifi_" height="30" width="40" /></a>
 <a href="https://t.me/Mr_Armin_Sharifi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="_arminsharifi_" height="30" width="40" /></a>
