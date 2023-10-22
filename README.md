@@ -13,6 +13,6 @@ I'm a skilled Software engineer specializing in C# and the .NET ecosystem. With 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker,rabbitmq" />
   </a>
 </p>
